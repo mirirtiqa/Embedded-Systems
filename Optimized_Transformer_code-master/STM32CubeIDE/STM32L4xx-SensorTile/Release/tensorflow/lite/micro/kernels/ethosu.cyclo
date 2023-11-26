@@ -1,0 +1,2 @@
+/home/rajat/Desktop/COURSES/Semester_7/COL788/Assignment-2/optimized/Optimized_Transformer_code-master/STM32CubeIDE/tensorflow/tensorflow/lite/micro/kernels/ethosu.cc:25:21:TfLiteRegistration* tflite::ops::micro::custom::Register_ETHOSU()	1
+/home/rajat/Desktop/COURSES/Semester_7/COL788/Assignment-2/optimized/Optimized_Transformer_code-master/STM32CubeIDE/tensorflow/tensorflow/lite/micro/kernels/ethosu.cc:27:13:const char* tflite::ops::micro::custom::GetString_ETHOSU()	1

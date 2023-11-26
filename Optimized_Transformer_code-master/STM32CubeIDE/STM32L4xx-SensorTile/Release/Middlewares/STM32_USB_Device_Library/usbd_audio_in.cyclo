@@ -1,0 +1,15 @@
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:343:18:USBD_AUDIO_GetCfgDesc	1
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:420:17:USBD_AUDIO_EP0_RxReady	3
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:445:17:USBD_AUDIO_EP0_TxReady	1
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:491:17:USBD_AUDIO_DataOut	1
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:503:18:USBD_AUDIO_GetDeviceQualifierDesc	1
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:356:16:USBD_AUDIO_DataIn	8
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:236:17:USBD_AUDIO_DeInit	2
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:194:17:USBD_AUDIO_Init	2
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:469:17:USBD_AUDIO_IsoINIncomplete	1
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:257:17:USBD_AUDIO_Setup	14
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:480:17:USBD_AUDIO_IsoOutIncomplete	1
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:456:17:USBD_AUDIO_SOF	1
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:631:10:USBD_AUDIO_Data_Transfer	9
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:692:10:USBD_AUDIO_RegisterInterface	2
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:709:6:USBD_AUDIO_Init_Microphone_Descriptor	8

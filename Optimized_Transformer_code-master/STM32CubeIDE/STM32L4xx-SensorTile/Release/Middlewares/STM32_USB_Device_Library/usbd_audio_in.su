@@ -1,0 +1,15 @@
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:343:18:USBD_AUDIO_GetCfgDesc	0	static
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:420:17:USBD_AUDIO_EP0_RxReady	8	static
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:445:17:USBD_AUDIO_EP0_TxReady	0	static
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:491:17:USBD_AUDIO_DataOut	0	static
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:503:18:USBD_AUDIO_GetDeviceQualifierDesc	0	static
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:356:16:USBD_AUDIO_DataIn	32	static
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:236:17:USBD_AUDIO_DeInit	8	static
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:194:17:USBD_AUDIO_Init	24	static
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:469:17:USBD_AUDIO_IsoINIncomplete	0	static
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:257:17:USBD_AUDIO_Setup	24	static
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:480:17:USBD_AUDIO_IsoOutIncomplete	0	static
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:456:17:USBD_AUDIO_SOF	0	static
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:631:10:USBD_AUDIO_Data_Transfer	32	static
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:692:10:USBD_AUDIO_RegisterInterface	0	static
+/home/rajat/Desktop/COURSES/Semester_7/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:709:6:USBD_AUDIO_Init_Microphone_Descriptor	28	static
